@@ -13,6 +13,7 @@ console.log(result);
 
 
 let date = '28.02.1999'; //string
-const pi = 3;
+const pi = Math.PI;
+console.log(pi);
 const a = 14;
 a = 2;
